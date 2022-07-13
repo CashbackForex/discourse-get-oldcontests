@@ -1,0 +1,3 @@
+plugins:
+  getContests_enabled:
+    default: false

@@ -1,0 +1,7 @@
+en:
+  js:
+    getContests:
+      title: 'Get Contests'
+
+      get_contest:
+        get_button_label: 'Get from Old Forum'     
